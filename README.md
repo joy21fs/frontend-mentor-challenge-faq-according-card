@@ -17,12 +17,13 @@
 
 ### What I learned
 
--when using {visibility: collapse} with table rows, the row disappears as if we set {display: none} to it.
+- when using {visibility: collapse} with table rows, the row disappears as if we set {display: none} to it.
 -in order to make space between <tr>s, i can add padding to the <td>
 -i can put an image as <td> by simply wrapping <img>inside<td></td>
 
 - box-shadow:
   /_ offset-x | offset-y | blur-radius | spread-radius | color _/
+  
   box-shadow: 0 2rem 5rem -3rem var(--shadow);
   the bigger the value of the blur-radius is would make the shadow bigger and lighter; if the value of the spread-radius is negative, the shadow would shrink. (I used the negative spread-radius along with offset-y to make the shadow only appears on the bottom side.)
 
