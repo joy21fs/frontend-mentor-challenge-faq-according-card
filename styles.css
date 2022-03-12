@@ -102,7 +102,8 @@ body {
   font-size: 110%;
 }
 
-.question-text:hover {
+.question-text:hover,
+.arrow:hover {
   color: var(--hover-text);
   cursor: pointer;
 }
