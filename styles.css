@@ -110,7 +110,7 @@ body {
 
 .answer {
   color: var(--Dark-grayish-blue);
-  visibility: collapse;
+  display: none;
 }
 
 .answer > td {
@@ -124,7 +124,7 @@ body {
 }
 
 .show-answer {
-  visibility: visible;
+  display: inherit;
 }
 
 .text-bold {
