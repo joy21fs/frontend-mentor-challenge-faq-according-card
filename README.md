@@ -17,7 +17,7 @@
 
 ### What I learned
 
-- when using {visibility: collapse} with table rows, the row disappears as if we set {display: none} to it.
+- when using {visibility: collapse} with table rows, the row disappears as if we set {display: none} to it. (however, it still appears as if it's {visibility: hidden} testing on Safari browsers
 -in order to make space between <tr>s, i can add padding to the <td>
 -i can put an image as <td> by simply wrapping <img>inside<td></td>
 
