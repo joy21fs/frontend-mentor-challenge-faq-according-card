@@ -2,8 +2,8 @@
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/joy21fs/frontend-mentor-challenge-faq-according-card
+- Live Site URL: https://joy21fs.github.io/frontend-mentor-challenge-faq-according-card/
 
 
 ### Built with
@@ -34,3 +34,11 @@
 - to create a "sticky footer" with {position: absolute}, i need to specifically add {position: relative} to the body element
 
 - ::before and ::after are child elements so if the parent has property that makes children sit in middle it will apply to the pseudo elements as well.
+  
+ ### Screenshots
+  
+![faq-accordin-card(mobile screenshot)](https://user-images.githubusercontent.com/95619834/158013666-824d5245-6f2e-40c8-9857-92ce32f8dcf9.png)
+![faq-according-card(mobile_unfold)](https://user-images.githubusercontent.com/95619834/158013669-19b1e1aa-8e46-47bf-80a9-c3231c6f8320.png)
+![faq-accordin-card(desktop)](https://user-images.githubusercontent.com/95619834/158013672-393ba21b-82a1-4db6-9481-8fc9d33f5b02.png)
+
+  
