@@ -39,6 +39,6 @@
   
 ![faq-accordin-card(mobile screenshot)](https://user-images.githubusercontent.com/95619834/158013666-824d5245-6f2e-40c8-9857-92ce32f8dcf9.png)
 ![faq-according-card(mobile_unfold)](https://user-images.githubusercontent.com/95619834/158013669-19b1e1aa-8e46-47bf-80a9-c3231c6f8320.png)
-![faq-accordin-card(desktop)](https://user-images.githubusercontent.com/95619834/158013672-393ba21b-82a1-4db6-9481-8fc9d33f5b02.png)
+<img width="981" alt="faq-accordin-card(desktop)" src="https://user-images.githubusercontent.com/95619834/158013842-f869828b-d18c-4732-8cc8-c585fb046cee.png">
 
   
